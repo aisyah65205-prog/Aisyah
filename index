@@ -358,16 +358,16 @@
         <p class="eyebrow">// Project Web Build · Koding dan Kecerdasan Artifisial</p>
 
         <!-- >>> GANTI DI SINI: nama kamu -->
-        <h1>hamsyah<span class="cursor"></span></h1>
+        <h1>aisyah<span class="cursor"></span></h1>
 
         <!-- >>> GANTI DI SINI: kelas dan sekolah -->
-        <p class="role">Codename 26 @SMK Pawiyatan Surabaya</p>
+        <p class="role"> X MP 1 @SMK Pawiyatan Surabaya</p>
 
         <div class="links">
           <!-- >>> GANTI DI SINI: ganti tautan sesuai akun kamu -->
-         <a href="https://www.tiktok.com/#kebabrahsyah" target="_blank">Tiktok</a>
-         <a href="https://www.instagram.com/Balmung1989" target="_blank">Instagram</a>
-         <a href="https://www.youtube.com/@senjaverseID" target="_blank">Youtube</a>
+         <a href="https://www.tiktok.com/#ibea7shinee" target="_blank">Tiktok</a>
+         <a href="https://www.instagram.com/katsuuenakkk" target="_blank">Instagram</a>
+         <a href="https://www.youtube.com/@AisyahAisyah-p3b" target="_blank">Youtube</a>
         </div>
       </div>
     </div>
@@ -379,10 +379,8 @@
     <h2>Tentang saya</h2>
     <!-- >>> GANTI DI SINI: ceritakan sedikit tentang dirimu, 2-3 kalimat cukup -->
     <p>
-       Halo, saya pengampu mata pelajaran Data Analys Admistrasi, Informatika dan 
-       Koding & Kecerdasan Artifisial. Saya suka membuat proyek kecil untuk
-       mengasah kemampuan, dan sedang belajar membangun website serta
-       program sederhana untuk mempermudah pekerjaan.
+       Halo,saya aisyah seorang pelajar SMK PAWIYATAN saya mengambil jurusan MP (manajemen perkantoran) 
+saya suka mencari informasi yang belum pernah saya ketahui dan saya suka mencari banyak teman untuk menambah wawasan diluar
     </p>
   </section>
 
@@ -392,11 +390,10 @@
     <h2>Kemampuan</h2>
     <!-- >>> GANTI DI SINI: tambah atau hapus <span class="skill">...</span> sesuai kemampuanmu -->
     <div class="skills">
-      <span class="skill">Organisatoris</span>
-      <span class="skill">Basic Trading</span>
-      <span class="skill">Microsoft Office</span>
-      <span class="skill">network administration</span>
-      <span class="skill">Junior Frontend Developer</span>
+      <span class="skill">mampu berorganisasi dalam kelompok</span>
+      <span class="skill">dapat mengedit yang simple</span>
+      <span class="skill">mampu memahami materi</span>
+     
     </div>
   </section>
 
